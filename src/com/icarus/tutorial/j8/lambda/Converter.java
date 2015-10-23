@@ -1,5 +1,8 @@
 package com.icarus.tutorial.j8.lambda;
 
-public class Converter {
+@FunctionalInterface
+public interface Converter<F, T> {
+	
+	T converter(F from);
 
 }
