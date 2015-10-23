@@ -1,0 +1,2 @@
+java.lang.ArithmeticException: / by zero
+	at com.icarus.tutorial.javaio.printwriter.StackTraceToFile.main(StackTraceToFile.java:13)
