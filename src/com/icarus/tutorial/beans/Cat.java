@@ -55,9 +55,5 @@ public class Cat extends Animal implements Say {
 	public int getNumberOfLegs() {
 		return NUMBER_OF_LEGS;
 	}
-	
-	
-	
-	
 
 }
